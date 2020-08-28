@@ -1,0 +1,20 @@
+D:\webroot\lJ1\L4\c-sharp\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csprojAssemblyReference.cache
+D:\webroot\lJ1\L4\c-sharp\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.Properties.Resources.resources
+D:\webroot\lJ1\L4\c-sharp\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.GenerateResource.cache
+D:\webroot\lJ1\L4\c-sharp\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.CoreCompileInputs.cache
+D:\webroot\lJ1\L4\c-sharp\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.exe.config
+D:\webroot\lJ1\L4\c-sharp\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.exe
+D:\webroot\lJ1\L4\c-sharp\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.pdb
+D:\webroot\lJ1\L4\c-sharp\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.exe
+D:\webroot\lJ1\L4\c-sharp\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.pdb
+D:\webroot\lJ1\L4\c-sharp\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.rekenmachine.resources
+C:\webroot\LJ1\level 04\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csprojAssemblyReference.cache
+C:\webroot\LJ1\level 04\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.rekenmachine.resources
+C:\webroot\LJ1\level 04\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.Properties.Resources.resources
+C:\webroot\LJ1\level 04\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.GenerateResource.cache
+C:\webroot\LJ1\level 04\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.CoreCompileInputs.cache
+C:\webroot\LJ1\level 04\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.exe
+C:\webroot\LJ1\level 04\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.pdb
+C:\webroot\LJ1\level 04\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.exe.config
+C:\webroot\LJ1\level 04\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.exe
+C:\webroot\LJ1\level 04\c-rekenmachine-Jeremy-Haarbosch\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.pdb
